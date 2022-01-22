@@ -1,0 +1,12 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.contacto{
+    font-family: 'Outfit', sans-serif;
+    display: flex;
+    justify-content: space-around;
+    background-color: #2b282e;
+    color: rgb(240, 242, 245);
+}
